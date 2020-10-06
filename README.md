@@ -1,4 +1,4 @@
-## CambioDivisa
+# CambioDivisa
 
 Implementar una aplicación en JavaFX que permita calcular los cambios entre distintas divisas:
 
