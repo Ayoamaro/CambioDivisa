@@ -1,6 +1,11 @@
-# CambioDivisa
+## CambioDivisa
 
-Implementar una aplicación en JavaFX que permita calcular los cambios entre distintas divisas: Euro, Dolar, Yen, Libra esterlina, ...
+Implementar una aplicación en JavaFX que permita calcular los cambios entre distintas divisas:
+
+- Euro
+- Dolar
+- Yen
+- Libra esterlina
 
 El aspecto de la interfaz será el siguiente:
 
